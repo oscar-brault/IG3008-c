@@ -1,0 +1,1 @@
+char* litDixCaracteres(int descripteur);
